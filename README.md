@@ -68,6 +68,7 @@ See code for all available configurations.
 | Model                                                               | Path                                               |
 | ------------------------------------------------------------------- | -------------------------------------------------- |
 | [Acer Aspire 4810T](acer/aspire/4810t)                              | `<nixos-hardware/acer/aspire/4810t>`               |
+| [Acer Aspire 3 A315-55G-709W](acer/aspire/A315-55G/709W)            | `<nixos-hardware/acer/aspire/A315-55G/709W>`       |
 | [Airis N990](airis/n990)                                            | `<nixos-hardware/airis/n990>`                      |
 | [Apple MacBook Air 3,X](apple/macbook-air/3)                        | `<nixos-hardware/apple/macbook-air/3>`             |
 | [Apple MacBook Air 4,X](apple/macbook-air/4)                        | `<nixos-hardware/apple/macbook-air/4>`             |
