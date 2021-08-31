@@ -17,6 +17,9 @@
     "sd_mod"
   ];
 
+  # Backlight keys.
+  boot.kernelParams = [ "acpi_backlight=video" ];
+  
   boot.kernelModules = lib.mkDefault [ "kvm-intel" ];
 
 #  hardware.nvidia.prime = {
