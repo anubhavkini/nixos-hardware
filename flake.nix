@@ -4,6 +4,7 @@
   outputs = { self }: {
     nixosModules = {
       dell-aspire-4810t = import ./acer/aspire/4810t;
+      acer-aspire-a315-55g = import ./acer/aspire/a315-55g;
       asus-fx504gd = import ./asus/fx504gd;
       asus-zephyrus-ga401 = import ./asus/zephyrus/ga401;
       apple-macbook-air-3 = import ./apple/macbook-air/3;
