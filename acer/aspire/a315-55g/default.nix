@@ -8,7 +8,6 @@ in
     ../../../common/cpu/intel
     ../../../common/gpu/nvidia-disable.nix
     ../../../common/pc/laptop
-    ../../../common/pc/laptop/hdd
   ];
 
   boot = {
